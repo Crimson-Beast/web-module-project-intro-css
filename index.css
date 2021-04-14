@@ -126,6 +126,9 @@ header {
 .needtoknow p {
     padding-bottom: 20px;
 }
+span {
+    font-weight: bold;
+}
 
 
 footer {
